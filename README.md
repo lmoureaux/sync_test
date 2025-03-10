@@ -1,6 +1,8 @@
 # Sync Test
 
+Will this sync to GitHub?
 
+----
 
 ## Getting started
 
